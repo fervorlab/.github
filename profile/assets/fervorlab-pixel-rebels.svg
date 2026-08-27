@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
+  <title id="title">Fervorlab — Small team. Fierce worlds.</title>
+  <desc id="desc">Fervorlab game studio banner with an ember-red pixel grid.</desc>
+
+  <defs>
+    <pattern id="pixel-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#30363d" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="500" fill="#0d1117"/>
+  <rect x="1" y="1" width="1598" height="498" fill="none" stroke="#30363d" stroke-width="2"/>
+  <rect width="1600" height="500" fill="url(#pixel-grid)" opacity="0.28"/>
+
+  <rect x="1344" y="0" width="128" height="128" fill="#ff4b2b"/>
+  <rect x="1280" y="128" width="64" height="64" fill="#b42318"/>
+  <rect x="0" y="480" width="320" height="20" fill="#ff4b2b"/>
+
+  <rect x="72" y="62" width="174" height="54" fill="#ff4b2b"/>
+  <text x="159" y="97" fill="#0d1117" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" letter-spacing="2" text-anchor="middle">PLAYER 01</text>
+  <text x="274" y="97" fill="#d7c8b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700" letter-spacing="4">FERVORLAB / SEOUL</text>
+
+  <text x="72" y="244" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="76" font-weight="700" letter-spacing="-3">Small team.</text>
+  <text x="72" y="326" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="76" font-weight="700" letter-spacing="-3">Fierce worlds.</text>
+
+  <text x="72" y="430" fill="#d7c8b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="600" letter-spacing="3">KOREAN FOLKLORE → SYSTEMS → PRESSURE → PLAY</text>
+</svg>
