@@ -6,45 +6,26 @@
 
 <p><code>TAILBOUND // NOW FORGING</code></p>
 
-<table>
-  <tr>
-    <td width="72%" valign="top">
-      <h2>Enter the folklore loop.</h2>
-      <p>
-        A native action roguelite rooted in Korean folklore, built for decisive combat
-        and repeatable runs.
-      </p>
-      <p>
-        <code>KOREAN FOLKLORE</code>
-        <code>GODOT 4</code>
-        <code>NATIVE MOBILE</code>
-      </p>
-    </td>
-    <td width="28%" align="right" valign="middle">
-      <a href="https://tailbound.xyz/"><strong>Explore Tailbound ↗</strong></a>
-    </td>
-  </tr>
-</table>
+## Enter the folklore loop.
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <sub><code>01</code></sub>
-      <h3><code>SOURCE: FOLKLORE</code></h3>
-      <p>Cultural texture becomes systems, tension, and play.</p>
-    </td>
-    <td width="33%" valign="top">
-      <sub><code>02</code></sub>
-      <h3><code>RUNTIME: NATIVE</code></h3>
-      <p>Responsive interactions with focused native performance.</p>
-    </td>
-    <td width="34%" valign="top">
-      <sub><code>03</code></sub>
-      <h3><code>PARTY: SMALL</code></h3>
-      <p>Disciplined scope, strong authorship, deliberate detail.</p>
-    </td>
-  </tr>
-</table>
+A native action roguelite rooted in Korean folklore, built for decisive combat
+and repeatable runs.
+
+<p>
+  <code>KOREAN FOLKLORE</code>
+  <code>GODOT 4</code>
+  <code>NATIVE MOBILE</code>
+</p>
+
+[**Explore Tailbound ↗**](https://tailbound.xyz/)
+
+---
+
+### How we build
+
+- **Source: folklore.** Cultural texture becomes systems, tension, and play.
+- **Runtime: native.** Responsive interactions with focused native performance.
+- **Party: small.** Disciplined scope, strong authorship, deliberate detail.
 
 <p align="center">
   <a href="https://fervorlab.com/">Studio</a>
